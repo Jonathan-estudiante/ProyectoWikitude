@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyecto Wikitude</string>
+    <string name="compass_accuracy_low">Please calibrate compass</string>
+    <string name="home">Home</string>
+
+
+</resources>
